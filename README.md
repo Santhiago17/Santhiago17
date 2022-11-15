@@ -1,10 +1,11 @@
 Prazer, sou o Santhiago!
 
 
-- 🔭 Hoje trabalho como Analista Financeiro, porém estou em processo de transição de carreira para o Desenvolvimento Front-End.
+- 🔭 Hoje trabalho como Analista Financeiro, porém estou em processo de transição de carreira para o Desenvolvimento Web.
 - 🌱 Estudandando Javascript e ReactJS.
 - ⚡ O sucesso é a soma de pequenos esforços repetidos dia após dia.
-
+- 💻 Análise e Desenvolvimento de Sistemas
+ 
 
 <div align="center">
   <a href="https://github.com/Santhiago17">
