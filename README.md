@@ -2,7 +2,7 @@ Prazer, sou o Santhiago!
 
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudandando Javascript e ReactJS.
+- 🌱 Estudando Javascript e TypeScript.
 - ⚡ O sucesso é a soma de pequenos esforços repetidos dia após dia.
 
 ##
