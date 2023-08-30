@@ -1,7 +1,7 @@
 Olá, me chamo Santhiago!
 
 
-- 🔭 Graduando em Análise e Desenvolvimento de Sistemas.
+- 🔭 Graduando em Sistemas para Internet.
 - 🌱 Objetivo a médio prazo é me tornar um desenvolvedor Full-Stack criando soluções de ponta a ponta.
 - ⚡ O sucesso é a soma de pequenos esforços repetidos dia após dia.
 
