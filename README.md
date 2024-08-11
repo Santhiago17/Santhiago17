@@ -1,9 +1,13 @@
-Olá, me chamo Santhiago!
+👋 Olá! Eu sou o Santhiago.
+🎓 Graduando em Sistemas para Internet, determinado por transformar dados em insights valiosos.
 
+🌱 Objetivo: Tornar-me um Engenheiro de Dados completo, desenvolvendo soluções de ponta a ponta que impulsionem a tomada de decisões estratégicas nas empresas.
 
-- 🔭 Graduando em Sistemas para Internet.
-- 🌱 Objetivo a médio prazo é me tornar um Engenheiro de Dados criando soluções de ponta a ponta.
-- ⚡ O sucesso é a soma de pequenos esforços repetidos dia após dia.
+🔧 Foco: Estou constantemente aprimorando minhas habilidades em modelagem de dados, pipelines de dados, ETL, big data, e análise avançada, com o objetivo de dominar todo o ciclo de vida dos dados.
+
+💡 Motivação: Acredito que o sucesso é construído através da soma de pequenos esforços, repetidos consistentemente dia após dia. Estou comprometido em aprender, evoluir e aplicar as melhores práticas do mercado para entregar soluções robustas e escaláveis.
+
+📈 Visão: Criar impacto através de dados, contribuindo para a inovação e eficiência em projetos que fazem a diferença.
 
 ##
  
